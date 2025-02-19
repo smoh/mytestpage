@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "this is a test"
-permalink: /about
+---
 
 # hello world!
 
